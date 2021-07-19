@@ -1,7 +1,7 @@
 <h1 align="center">:snake: Telegram-RAT</h1>
 
 <p align="center">
-  Control computer via Telegram!
+  Control computer via Telegram! same as the original fork for now coming soon with more commands
 </p>
 
 # :page_facing_up: Installation guide
